@@ -48,7 +48,7 @@
 #### ✨Front-End
 - Visual Studio Code
 - Vue.js 3.0
-- ~~~[적어주세요]~~~
+- Element Plus
 
 #### 🖱Web RTC
 - ovenvidu 2.19.0
