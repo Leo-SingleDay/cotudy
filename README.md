@@ -1,16 +1,19 @@
 ## 📑 SSAFY 6기 공통 프로젝트 - Cotudy
 #### Web RTC 기반 화상 스터디 플랫폼
-![main-logo](/uploads/6f0cb796dfad2dc36fdf1a4bed2b4ed4/main-logo.png)
+![main-logo](https://user-images.githubusercontent.com/20656314/164156771-7333511a-a234-4bb5-8806-5c02117c1bc9.png)
 <br>
 
 ### Cotudy 프로젝트팀을 소개합니다.
-- [원팀이 될 수 있도록 노력하자.] 오윤기 😎
-    - 팀장으로서 원팀으로 만들기위해 노력했습니다. 
+- [협업을 위해 노력하자.] 오윤기 😎
+    - 팀장을 맡아 원팀이 되기위해 노력했습니다. 
 - [6시가 지나도 끝나지 않는다.] 서형준 😤
 	- 부족하면 더 열심히 하겠습니다.
-- 최시열
-- 현종일
-- 전영서
+- [발표는 나에게 맡겨라.] 최시열 🤠
+	- 코터디 프로젝트의 발표는 걱정마세요. 
+- [OpenVidu는 나에게!] 현종일 🧐
+	- 코터디 WebRTC를 담당하겠습니다. 
+- [UCC 영상제작은 껌] 전영서 🤓
+	- 코터디 소개 UCC는 저에게 맡겨주세요.
 
 
 ### OverView
@@ -27,11 +30,11 @@
 
 ## 주요기능
 ### 1. WebRTC를 통한 실시간 화상 플랫폼
-![주요기능1](/uploads/1e25a0acd0ece020785235e07c7c5037/주요기능1.png)
+![main1](https://user-images.githubusercontent.com/20656314/164156776-4e0bc007-28d8-4d2f-8ab9-02c7efaf8eb5.png)
 ### 2. Teachable Machine pose을 통한 자세를 인식하여 학습기록
-![주요기능2](/uploads/74d9b7df5f33a9756902d8f58eb5107b/주요기능2.png)
+![주요기능2](/readme_assets/motion_detect.gif)
 ### 3. 공부시간을 활용하여 사용자들의 랭킹시스템
-![주요기능3](/uploads/fd43965daa2aaa52be9affee31c16d89/주요기능3.png)
+![주요기능3](/readme_assets/ranking_table.gif)
 
 <br>
 
@@ -70,14 +73,14 @@
 - Discord
 
 ## 서비스 아키텍쳐
-![아키텍처](/uploads/ca178967e12255795a7f53e9838da17a/아키텍처.PNG)
+![archi](https://user-images.githubusercontent.com/20656314/164156777-7d2e7dd4-965f-40db-805a-190da73f47b8.PNG)
 
 
 ### 기능 정의서
-![기능_정의서](/uploads/05cc2639649be6385bb976a3f826e786/기능_정의서.PNG)
-
+40db-805a-190da73f47b8.PNG)
+![docs1](https://user-images.githubusercontent.com/20656314/164156782-2012e806-a45a-490c-ba72-4c2cb4e9bf74.PNG)
 ### 화면 설계서
-![figma](/uploads/0bfc585f4f085161548ddde4db6dc674/figma.PNG)
+![figma](https://user-images.githubusercontent.com/20656314/164156788-d0fd6574-e1ce-40c1-83f1-b86f0e98862b.PNG)
 
 ### Git 컨벤션
 ```
@@ -104,7 +107,8 @@ refactor : 성능 개선
 ### GitLab Flow 브랜치 전략
 
 ### E-R Diagram
-![erd](/uploads/ff52bb195f5434e7c702f89ea7f49f83/erd.PNG)
+![erd](https://user-images.githubusercontent.com/20656314/164156800-b3da99b5-dfe9-44ad-885e-6506842b508c.PNG)
+
 
 ### EC2 포트 정리
 
@@ -117,10 +121,6 @@ refactor : 성능 개선
 |8081|Jenkins|
 |8080|Spring boot Docker Container|
 |3000|Vue.js, NginX Docker Container|
-
-### Cotudy's Wiki 
-~~추가 예정입니다~~
-
 
 ### 팀원 역활
 - 오윤기
